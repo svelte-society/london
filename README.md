@@ -1,8 +1,8 @@
 # Svelte Society London
 
-This is the Repository for the London Svelte Society Meetup - Want to talk at the next Meetup? Open an Issue!
+This is the Repository for the Svelte Society London events - Want to talk at the next event? Open an [Issue](https://github.com/svelte-society/london/issues/new/choose)!
 
-[https://meetup.com/svelte](https://meetup.com/svelte)
+Join the Guild for details on upcoming events: [guild.host/svelte-society-london](https://beta.guild.host/svelte-society-london/events)
 
 Our current venues:
 
