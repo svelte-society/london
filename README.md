@@ -6,6 +6,5 @@ This is the Repository for the London Svelte Society Meetup - Want to talk at th
 
 Our current venues:
 
-* [NewSpeak House](https://www.nwspk.com/) - Shoreditch
-* [Fugitive Motel Bar](https://fugitivemotel.bar/) - Bethnal Green
-* [ESynergy Solutions HQ](https://esynergy-solutions.com) - Tower, London
+* [Microsoft Reactor London](https://reactor.microsoft.com/en-us/reactor/) - Shoreditch
+* [Outverse](https://www.outverse.com/) - Spitalfields
