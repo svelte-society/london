@@ -54,3 +54,7 @@ Lift your state up to the URL. When to do it, how to do it and what's the new be
 How we're progressively moving an actively worked on codebase (with 4 engineers) into SvelteKit, to enable us to progressively enhance the frontend with Svelte + Kit whilst minimising impact on product velocity.
 
 https://www.youtube.com/watch?v=DXQl1G54DJY
+
+---
+
+To have a look at some of our older talks, check us out [on YouTube](https://www.youtube.com/@SvelteSociety/streams), or have a look at the [archived Meetup group](https://www.meetup.com/svelte/).
