@@ -1,8 +1,8 @@
 ---
-name: Speakers
+name: "[Meta] Speakers"
 about: Checklist item for event speakers
-title: ""
-labels: speakers
+title: "Svelte Society London Speakers [MMMM yyyy]"
+labels: Meta
 assignees: ""
 ---
 
@@ -13,7 +13,7 @@ assignees: ""
 - [ ] Identify potential speakers
 - [ ] Reach out to potential speakers
 - [ ] Confirm speaker availability
-- [ ] Finalize speaker lineup
+- [ ] Finalise speaker line-up
 
 ### Speaker Logistics
 

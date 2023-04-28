@@ -1,8 +1,8 @@
 ---
-name: Venue
+name: "[Meta] Venue"
 about: Checklist item for the event venue
-title: ""
-labels: venue
+title: "Svelte Society London Venue [MMMM yyyy]"
+labels: Meta
 assignees: ""
 ---
 
