@@ -11,3 +11,4 @@ assignees: ""
 - [ ] Draft event
 - [ ] Add talks
 - [ ] Create YouTube event
+- [ ] Post event on Svelte #events Discord channel
