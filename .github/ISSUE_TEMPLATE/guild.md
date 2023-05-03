@@ -12,3 +12,4 @@ assignees: ""
 - [ ] Add talks
 - [ ] Create YouTube event
 - [ ] Post event on Svelte `#events` Discord channel
+- [ ] Give Guild attendees names to event venue door staff
